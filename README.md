@@ -1,11 +1,5 @@
-- 👋 Hi, I’m Walter, an Agricultural Economist at Kansas State University.
-  
-- 🌱 I’m currently working on research projects about i) Forecasting, ii) Machine Learning, iii) Data Analytics, iv) International Trade and Policy
-
-- 💞️ I’m looking to collaborate on research and industry projects.
-  
-- 📫 Shoot me an email at walterac@ksu.edu
-
+# 🏄‍♂️ Walter Ac-Pangan
+**`Agricultural Economist (Data scientist/SoftwareDev)`**
 
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
@@ -14,15 +8,10 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=WELCOME+TO+THIS+CORNER!;GLAD+YOU+ARE+HERE!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-
+ <br>
   <img src="https://readme-typing-svg.demolab.com/?lines=LABOR+OMNIA+VINCIT;AD+ASTRA+PER+ASTRA!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
-<p align="center">
-  <a href="https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code" alt="Users" title="Repo users">
-    <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
-
-</p>
 <!-- markdownlint-enable MD033 -->
 
 
@@ -35,8 +24,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
@@ -44,9 +31,8 @@
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
 
-# 🏄‍♂️ Walter Ac-Pangan
-
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+- 👋 Hi, I’m Walter, an Agricultural Economist at Kansas State University.🌱 I’m currently working on research projects about i) Forecasting, ii) Machine Learning, iii) Data Analytics, iv) International Trade and Policy
+I’m looking to collaborate on research and industry projects. 📫 Shoot me an email at walterac@ksu.edu
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
 

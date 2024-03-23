@@ -1,8 +1,8 @@
-<p align="center">
+
 # 🏄‍♂️ Walter Ac-Pangan
-   <br>
+
 **`Agricultural Economist (Data scientist/SoftwareDev)`**
-</p>
+
 
 <!-- markdownlint-disable MD033 MD041 -->
 

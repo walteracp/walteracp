@@ -31,7 +31,7 @@
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
 
-- 👋 Hi, I’m Walter, an Agricultural Economist at Kansas State University.🌱 I’m currently working on research projects about i) Forecasting, ii) Machine Learning, iii) Data Analytics, iv) International Trade and Policy
+👋 Hi, I’m Walter, an Agricultural Economist at Kansas State University.🌱 I’m currently working on research projects about i) Forecasting, ii) Machine Learning, iii) Data Analytics, iv) International Trade and Policy
 I’m looking to collaborate on research and industry projects. 📫 Shoot me an email at walterac@ksu.edu
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.

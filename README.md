@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=WELCOME+TO+THIS+CORNER!;GLAD+YOU+ARE+HERE!&font=Fira%20Code&center=true&width=580&height=50&duration=4000&pause=2000" alt="Example Usage - README Typing SVG">
  <br>
-  <img src="https://readme-typing-svg.demolab.com/?lines=LABOR+OMNIA+VINCIT;AD+ASTRA+PER+ASTRA!&font=Fira%20Code&center=true&width=580&height=50&duration=4000&pause=2000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=LABOR+OMNIA+VINCIT;AD+ASTRA+PER+ASTRA!&font=Fira%20Code&center=true&width=580&height=50&duration=4000&pause=4000" alt="Example Usage - README Typing SVG">
 </p>
 
 <!-- markdownlint-enable MD033 -->

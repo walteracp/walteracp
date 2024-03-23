@@ -1,16 +1,14 @@
 <p align="center">
-
 # 🏄‍♂️ Walter Ac-Pangan
 **`Agricultural Economist (Data scientist/SoftwareDev)`**
-
 </p>
 
 <!-- markdownlint-disable MD033 MD041 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=WELCOME+TO+THIS+CORNER!;GLAD+YOU+ARE+HERE!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=WELCOME+TO+THIS+CORNER!;GLAD+YOU+ARE+HERE!&font=Fira%20Code&center=true&width=580&height=250&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
  <br>
-  <img src="https://readme-typing-svg.demolab.com/?lines=LABOR+OMNIA+VINCIT;AD+ASTRA+PER+ASTRA!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=LABOR+OMNIA+VINCIT;AD+ASTRA+PER+ASTRA!&font=Fira%20Code&center=true&width=580&height=250&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 <!-- markdownlint-enable MD033 -->

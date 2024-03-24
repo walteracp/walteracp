@@ -1,7 +1,7 @@
 
 # 🏄‍♂️ WALTER AC-PANGAN
 
-**`Economist / Data scientist / SoftwareDev)`**
+**`Economist / Data scientist `**
 
 
 <!-- markdownlint-disable MD033 MD041 -->

@@ -51,7 +51,6 @@ I’m looking to collaborate on research and industry projects, building my econ
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://www.freepik.com/premium-vector/cup-coffee-with-coffee-beans-white-background_40894480.htm#query=coffee%20svg&position=10&from_view=keyword&track=ais&uuid=a40a0efb-2795-46b8-b0f4-e97e4b01019d" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -62,10 +61,10 @@ I’m looking to collaborate on research and industry projects, building my econ
 
 #
 
-### 📺 Latest YouTube Videos
+### 📺  YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Win this RTX 4090 signed by Jensen Huang](https://ytcards.demolab.com/?id=VybxPh8Trls&title=Win+this+RTX+4090+signed+by+Jensen+Huang&lang=en&timestamp=1710538911&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50 "Win this RTX 4090 signed by Jensen Huang")](https://www.youtube.com/watch?v=VybxPh8Trls)
+[![Agricultural Economics Doorways to Opportunity](https://ytcards.demolab.com/?id=VybxPh8Trls&title=Win+this+RTX+4090+signed+by+Jensen+Huang&lang=en&timestamp=1710538911&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50 "Win this RTX 4090 signed by Jensen Huang")]([https://www.youtube.com/watch?v=VybxPh8Trls](https://www.youtube.com/watch?v=qyvKHE5phd0))
 [![How Data Structures & Algorithms are Actually Used](https://ytcards.demolab.com/?id=ALPWOiUKIjY&title=How+Data+Structures+%26+Algorithms+are+Actually+Used&lang=en&timestamp=1710513900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=699 "How Data Structures & Algorithms are Actually Used")](https://www.youtube.com/watch?v=ALPWOiUKIjY)
 [![Everything You Need to Know about Web Scraping (Advanced)](https://ytcards.demolab.com/?id=vxk6YPRVg_o&title=Everything+You+Need+to+Know+about+Web+Scraping+%28Advanced%29&lang=en&timestamp=1709917248&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=903 "Everything You Need to Know about Web Scraping (Advanced)")](https://www.youtube.com/watch?v=vxk6YPRVg_o)
 [![The Data Structure You Use Matters a Lot](https://ytcards.demolab.com/?id=VpnZnFUHhIU&title=The+Data+Structure+You+Use+Matters+a+Lot&lang=en&timestamp=1707836432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395 "The Data Structure You Use Matters a Lot")](https://www.youtube.com/watch?v=VpnZnFUHhIU)

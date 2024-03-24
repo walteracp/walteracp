@@ -64,6 +64,11 @@
 [![Everything You Need to Know about Web Scraping (Advanced)](https://ytcards.demolab.com/?id=vxk6YPRVg_o&title=Everything+You+Need+to+Know+about+Web+Scraping+%28Advanced%29&lang=en&timestamp=1709917248&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=903 "Everything You Need to Know about Web Scraping (Advanced)")](https://www.youtube.com/watch?v=vxk6YPRVg_o)
 [![The Data Structure You Use Matters a Lot](https://ytcards.demolab.com/?id=VpnZnFUHhIU&title=The+Data+Structure+You+Use+Matters+a+Lot&lang=en&timestamp=1707836432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395 "The Data Structure You Use Matters a Lot")](https://www.youtube.com/watch?v=VpnZnFUHhIU)
 
+
+[![The Data Structure You Use Matters a Lot](https://ytcards.demolab.com/?id=VpnZnFUHhIU&title=The+Data+Structure+You+Use+Matters+a+Lot&lang=en&timestamp=1707836432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395 "The Data Structure You Use Matters a Lot")]([https://www.youtube.com/watch?v=VpnZnFUHhIU](https://www.youtube.com/watch?v=rctWhgLwPvU))
+
+
+https://www.youtube.com/watch?v=rctWhgLwPvU
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)

@@ -65,7 +65,7 @@
 [![The Data Structure You Use Matters a Lot](https://ytcards.demolab.com/?id=VpnZnFUHhIU&title=The+Data+Structure+You+Use+Matters+a+Lot&lang=en&timestamp=1707836432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395 "The Data Structure You Use Matters a Lot")](https://www.youtube.com/watch?v=VpnZnFUHhIU)
 
 
-[![The Data Structure You Use Matters a Lot](https://ytcards.demolab.com/?id=VpnZnFUHhIU&title=The+Data+Structure+You+Use+Matters+a+Lot&lang=en&timestamp=1707836432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395 "The Data Structure You Use Matters a Lot")]([https://www.youtube.com/watch?v=VpnZnFUHhIU](https://www.youtube.com/watch?v=rctWhgLwPvU))
+[![The Data Structure You Use Matters a Lot]("https://www.youtube.com/watch?v=VpnZnFUHhIU](https://www.youtube.com/watch?v=rctWhgLwPvU")](https://www.youtube.com/watch?v=VpnZnFUHhIU](https://www.youtube.com/watch?v=rctWhgLwPvU)
 
 
 https://www.youtube.com/watch?v=rctWhgLwPvU

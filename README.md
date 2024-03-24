@@ -13,7 +13,7 @@
 </p>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&duration=2000&pause=500&color=FFFFFF&multiline=true&repeat=false&random=false&width=1035&height=250&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Walter%2C+an+Agricultural+Economist+at+Kansas+State+University.;%F0%9F%8C%B1+I%E2%80%99m+currently+working+on+research+projects+about+i)+Forecasting%2C+ii)+Machine+Learning%2C+iii)+Data+Analytics%2C+iv)+International+Trade+and+Policy.;I%E2%80%99m+looking+to+collaborate+on+research+and+industry+projects%2C+building+my+economic+version+in+the+digital+world+one+step+at+a+time.+;All+coding+projects+are+built+from+the+ground+up%2C+from+planning+and+designing+all+the+way+to+solving+real-life+problems+with+code.+;All+video+content+is+built+the+same+way.+I+publish+that+content+on+my+YouTube+channel+%22%5Bwalteracp%5D%5Byoutube%5D%22+where+you+can+find+some+of+my+lectures+and+short-workshops+to+code+in+R+and+Python." alt="Typing SVG" /></a>
+<<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&duration=3000&pause=500&color=FFFFFF&multiline=true&repeat=false&random=false&width=1035&height=350&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Walter%2C+an+Agricultural+Economist+at+Kansas+State+University.;%F0%9F%8C%B1+I%E2%80%99m+currently+working+on+research+projects+about+i)+Forecasting%2C+ii)+Machine+Learning%2C+iii)+Data+Analytics%2C+iv)+International+Trade+and+Policy.;I%E2%80%99m+looking+to+collaborate+on+research+and+industry+projects%2C+building+my+economic+version+in+the+digital+world+one+step+at+a+time.+;All+coding+projects+are+built+from+the+ground+up%2C+from+planning+and+designing+all+the+way+to+solving+real-life+problems+with+code.+;I+publish+that+content+on+my+YouTube+channel+%22%5Bwalteracp%5D%5Byoutube%5D%22+where+you+can+find+some+of+my+lectures+and+short-workshops+to+code+in+R+and+Python." alt="Typing SVG" /></a>
 
 <!-- markdownlint-enable MD033 -->
 
@@ -30,10 +30,6 @@
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
-
-👋 Hi, I’m Walter, an Agricultural Economist at Kansas State University.🌱 I’m currently working on research projects about i) Forecasting, ii) Machine Learning, iii) Data Analytics, iv) International Trade and Policy
-I’m looking to collaborate on research and industry projects, building my economic version in the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way. I publish that content on my YouTube channel "[walteracp][youtube]" where you can find some of my lectures and short-workshops to code in R and Python.
-
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 

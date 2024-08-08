@@ -18,6 +18,8 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=LABOR+OMNIA+VINCIT&font=Fira%20Code&center=true&width=580&height=50&duration=4000&pause=8000&color=177902&repeat=false" alt="Example Usage - README Typing SVG">
   <img src="https://readme-typing-svg.demolab.com/?lines=AD+ASTRA+PER+ASTRA&font=Fira%20Code&center=true&width=580&height=50&duration=4000&pause=8000&color=177902&repeat=false" alt="Example Usage - README Typing SVG">
   <img src="https://readme-typing-svg.demolab.com/?lines=LEARNING+BY+DOING&font=Fira%20Code&center=true&width=580&height=50&duration=4000&pause=8000&color=177902&repeat=false" alt="Example Usage - README Typing SVG">
+
+  <img src="https://readme-typing-svg.demolab.com/?lines=www.walteracpangan&font=Fira%20Code&center=true&width=580&height=50&duration=4000&pause=8000&color=177902&repeat=false" alt="Example Usage - README Typing SVG">
 </p>
 
 

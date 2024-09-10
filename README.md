@@ -68,6 +68,9 @@
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Mapping_in_Python_(Geopandas_and_Bukeh](https://ytcards.demolab.com/?id=ALPWOiUKIjY&title=How+Data+Structures+%26+Algorithms+are+Actually+Used&lang=en&timestamp=1710513900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=699 "How Data Structures & Algorithms are Actually Used")](https://www.youtube.com/watch?v=TVzeUpYpytU)
 
+[![Forecasting_Grain_Supply_Using_Machine_Learning in Python](https://ytcards.demolab.com/?id=ALPWOiUKIjY&title=How+Data+Structures+%26+Algorithms+are+Actually+Used&lang=en&timestamp=1710513900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=699 "How Data Structures & Algorithms are Actually Used")](https://www.youtube.com/watch?v=9On4ztYwnfA)
+
+
 
 <!-- END YOUTUBE-CARDS -->
 

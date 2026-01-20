@@ -19,19 +19,12 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=AD+ASTRA+PER+ASTRA&font=Fira%20Code&center=true&width=580&height=50&duration=4000&pause=8000&color=177902&repeat=false" alt="Example Usage - README Typing SVG">
   <img src="https://readme-typing-svg.demolab.com/?lines=LEARNING+BY+DOING&font=Fira%20Code&center=true&width=580&height=50&duration=4000&pause=8000&color=177902&repeat=false" alt="Example Usage - README Typing SVG">
 
- <a href="https://www.walteracpangan.com">
-<img src="https://readme-typing-svg.demolab.com/?lines=www.walteracpangan.com&font=Fira%20Code&center=true&width=580&height=50&duration=4000&pause=8000&color=FFFFFF&repeat=false" alt="Example Usage - README Typing SVG">
-</a>
+
  
  </p>
 
 <!-- Social icons section -->
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCO1MCbxDRv6ARjMQiBc5Ekw"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/walter-ac-pangan-784a29138"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/walteracp"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+
   
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->

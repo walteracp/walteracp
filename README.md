@@ -1,5 +1,5 @@
 
-# 🏄‍♂️ WALTER AC-PANGAN
+# 🏄‍♂️ WALTER
 
 **`Economist / Data scientist `**
 
